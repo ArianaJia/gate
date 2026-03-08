@@ -1,0 +1,11 @@
+../Core/Src/usart.c:34:6:MX_USART2_UART_Init	2
+../Core/Src/usart.c:63:6:MX_USART3_UART_Init	2
+../Core/Src/usart.c:91:6:HAL_UART_MspInit	3
+../Core/Src/usart.c:154:6:HAL_UART_MspDeInit	3
+../Core/Src/usart.c:199:6:HMI_set_Voltage	1
+../Core/Src/usart.c:207:6:HMI_set_Temperature	1
+../Core/Src/usart.c:213:6:HMI_set_V	1
+../Core/Src/usart.c:227:6:HMI_set_I	1
+../Core/Src/usart.c:235:6:HMI_set_T	1
+../Core/Src/usart.c:243:6:HMI_set_State	1
+../Core/Src/usart.c:260:6:HMI_set_A	1

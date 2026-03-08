@@ -1,0 +1,4 @@
+../Core/Src/bms_globals.c:35:6:init_bms_globals	8	static
+../Core/Src/bms_globals.c:61:5:string2numbers	32	static
+../Core/Src/bms_globals.c:88:6:safe_array_access	8	static
+../Core/Src/bms_globals.c:111:6:update_bms_stats	120	static
